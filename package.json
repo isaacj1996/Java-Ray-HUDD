@@ -1,0 +1,15 @@
+{
+    "name": "rayhudson",
+    "version": "0.0.1",
+    "description": "Quotes idk",
+    "main": "rayhudson.js",
+    "scripts": {
+        "test": "echo \" Error: no test specified\" && exit 1"
+    },
+    "author": "Isaac",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^11.3.2",
+        "npm": "^6.1.0"
+    }
+}
